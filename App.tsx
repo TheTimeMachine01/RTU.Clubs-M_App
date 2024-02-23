@@ -13,9 +13,9 @@ export default function App() {
         <HomeScreen />
 
       </View>
-      <View style={styles.container}>
+      <View>
         {/* Render the Slider component */}
-        <Slider />
+        {/* <Slider /> */}
       </View>
       {/* <Slider/> */}
 
